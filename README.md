@@ -1,4 +1,4 @@
-<h1 align="center"> Testes automatizados usando Cypress do site AdoPet 🐶💙🐱 </h1>
+<h1 align="center"> Testes automatizados usando Cypress do site AdoPet <br> 🐶💙🐱 </h1>
 
 <p align="center">
 Projeto realizado no curso de
